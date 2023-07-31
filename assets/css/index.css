@@ -1,0 +1,58 @@
+header {
+  background-color: rgba(0, 0, 0, 0.363);
+}
+.nav_con1 {
+  font-size: 20px;
+}
+
+.nav_links {
+  margin-left: 5px;
+  text-decoration-line: none;
+}
+
+main {
+  margin-top: 45px;
+}
+
+.logo {
+  /* background-color: rgba(0, 0, 0, 0.363); */
+  text-align: center;
+  font-family: segoe script;
+  padding-bottom: 3px;
+}
+
+.logo_title {
+  font-size: 80px;
+  text-shadow: 5px 5px purple;
+}
+
+.welcome {
+  padding: 20px;
+  background-color: rgba(128, 0, 128, 0.685);
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: double;
+  border-color: whitesmoke;
+  border-width: 5px;
+}
+
+footer {
+  margin-top: 130px;
+  background-color: rgba(0, 0, 0, 0.363);
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
+
+.footer_icons {
+  margin-top: -30px;
+  height: 35px;  
+}
+
+.creator_terms{
+  text-align: center;
+}
+
+.contact_info{
+  text-align: center;
+}
